@@ -1,5 +1,5 @@
 # 👋 Hey! Nice to see you.  
-I'm **Supun Dissanayaka** 😃  
+I'm **Kavintha Wijesinghe** 😃  
 
 ### 👨‍💻 About Me  
 AI Engineer | Generative AI | Computer Vision | RAG Chatbots  
