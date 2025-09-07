@@ -1,6 +1,6 @@
 # 😎 Hey! Nice to see you.  
 
-<h2 align="center">I'm Kavintha 😃</h2>  
+<h1 align="center">I'm Kavintha 😃</h1>  
 
 <h2 align="center">I'm an Artificial Intelligence Engineer</h2>   
 
