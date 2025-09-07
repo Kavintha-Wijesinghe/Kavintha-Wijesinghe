@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm Kavintha 😃</h2>  
 
-<h2 align="center">I'm an **Artificial Intelligence Engineer**</h2>   
+<h2 align="center">I'm an Artificial Intelligence Engineer</h2>   
 
 ---
 
