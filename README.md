@@ -1,8 +1,8 @@
 # 😎 Hey! Nice to see you.  
 
-## I'm Kavintha😃  
+<h2 align="center">I'm Kavintha 😃</h2>  
 
-I'm an **Artificial Intelligence Engineer** passionate about building scalable AI systems for innovation & business impact.  
+<h2 align="center">I'm an **Artificial Intelligence Engineer**</h2>   
 
 ---
 
