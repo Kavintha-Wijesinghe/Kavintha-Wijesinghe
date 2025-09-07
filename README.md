@@ -1,6 +1,6 @@
 # 😎 Hey! Nice to see you.  
 
-## I'm Kavintha Wijesinghe 😃  
+## I'm Kavintha😃  
 
 I'm an **Artificial Intelligence Engineer** passionate about building scalable AI systems for innovation & business impact.  
 
